@@ -9,3 +9,5 @@ Porém é muito útil e funcional, nesta tela é possível colocar diversos outr
 <p><img src="/resources/telawizardpanel3-1.png"></p>
 
 No exemplo abaixo irei mostrar um código funcional que você poderá usar da forma que quiser, irei detalhar o máximo possível para facilitar o seu uso.
+
+<center><p><a href="https://dayz-servers.org/server/170059/"><img src="https://dayz-servers.org/server/170059/banners/leaderboard-1.png" border="0" class="img-fluid"></a></p></center>
